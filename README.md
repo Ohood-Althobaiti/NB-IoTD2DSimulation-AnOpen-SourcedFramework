@@ -1,4 +1,4 @@
-# NB-IoTD2DSimulation-AnOpen-SourcedFramework
+# Narrowband-Internet of Things Device-to-Device Simulation: An Open-Sourced Framework
 
 Algorithm and Code for "Narrowband-Internet of Things Device-to-Device Simulation: An Open-Sourced Framework".
 
