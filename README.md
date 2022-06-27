@@ -5,7 +5,8 @@ Algorithm and Code for "Narrowband-Internet of Things Device-to-Device Simulatio
 
 ###############NB-IoT D2D Simulation: An Open-Sourced Framework###################
 
-license: This work is under exclusive copyright. Therefore, nobody else can copy, distribute, or modify my projects or part of them without being at risk of take-downs, shake-downs, or litigation.
+license: This work is under copyright, please see the below link:
+https://www.mdpi.com/1424-8220/21/5/1824
 
 Copyright © 2020
 
